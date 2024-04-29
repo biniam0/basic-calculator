@@ -27,7 +27,7 @@ Division
 Usage
 Clone the repository:
 Copy code
-git clone https://github.com/bini_yam0/basic-calculator.git
+git clone https://github.com/biniam0/basic-calculator.git
 Screenshots
 Include screenshots or gifs of your calculator in action if you'd like to showcase its appearance and functionality.
 
